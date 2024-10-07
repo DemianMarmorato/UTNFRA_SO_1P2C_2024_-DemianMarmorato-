@@ -1,0 +1,4 @@
+Mi IP Publica es: 186.130.90.146
+Mi usuario es: root
+El Hash de mi Usuario es: 63a9f0ea7bb98050796b649e85481845
+La URL de mi repositorio es: git@github.com:DemianMarmorato/UTNFRA_SO_1P2C_2024_-DemianMarmorato-.git
